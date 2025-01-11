@@ -1,0 +1,5 @@
+psycopg
+colorama
+chromadb
+tqdm
+ollama
